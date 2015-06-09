@@ -10,10 +10,10 @@ Tutorial ma zawierać **opis** (w formie tekstu, prezentacji itp.) oraz **prakty
 Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuosobowe grupy):
 
 ## I Grafika, interaktywna grafika
-1. Node-RED (http://nodered.org/)
+1. Node-RED (http://nodered.org/) [Tomsia+Kuczera]
 2. D3 (http://d3js.org/) [Kamiński][Dejnak]
 3. Fabric.js (http://fabricjs.com/) [Kula]
-4. Three.js (http://threejs.org/) [ Tomanek + Wykusz ]
+4. Three.js (http://threejs.org/) [Tomanek+Wykusz]
 
 ## II Gry
 1. CreateJS (http://createjs.com/) [Kowalczyk]
@@ -47,6 +47,6 @@ Poniżej lista tematów. Każdy musi wybrać jeden temat (ale możliwe są dwuos
 ## V Inne
 1. Chrome extensions [Białas][Garus+Nawias]
 2. Firefox add-ons [Zacharski]
-3. Grunt + Bower + Browserify [Frelas + Ziomek]
+3. Grunt + Bower + Browserify [Frelas+Ziomek]
 4. Jasmine (http://jasmine.github.io/) + Karma (http://karma-runner.github.io/)
 5. CocoonJS (najlepiej w połączeniu z jakimś silnikiem grafiki 2D lub 3D)
